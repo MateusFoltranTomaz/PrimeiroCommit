@@ -1,8 +1,9 @@
 # PrimeiroCommit
-<p\> Aprendendo sobre comandos Git
+Aprendendo sobre comandos Git
 Aula de fund. de T.I.
 Prof. Gabriela
 
+Comandos git
 1
 
 
