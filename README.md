@@ -1,9 +1,8 @@
-# PrimeiroCommit
-Aprendendo sobre comandos Git
-Aula de fund. de T.I.
-Prof. Gabriela
+# PrimeiroCommit🙌
+Aprendendo sobre como comandos Git funcionam!.🤔
 
 Comandos git
+
 1
 
 
